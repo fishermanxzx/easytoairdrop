@@ -1,0 +1,15 @@
+{
+  "name": "easytoairdrop",
+  "version": "1.0.0",
+  "description": "the scripts to airdrop",
+  "main": "games/index.js",
+  "scripts": {
+    "start": "node games/index.cjs"
+  },
+  "keywords": [],
+  "author": "xzx",
+  "license": "MIT",
+  "dependencies": {
+    "tls-client": "^0.0.5"
+  }
+}
