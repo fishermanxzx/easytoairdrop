@@ -2,7 +2,7 @@
 
 **A website that helps you quickly obtain airdrops**
 
-website:https://www.easytoairdrop.com
+website: https://www.easytoairdrop.com
 
 ## Env
 
@@ -79,5 +79,11 @@ http://user:pass@ip:port
 http://user:pass@ip:port
 ```
 
+3. Add WebSite User Data
 
+- go to https://www.easytoairdrop.com,sign in and login in
+
+- hover the avator to export the user.json
+
+- put the user.json to data/
 
