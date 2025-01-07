@@ -56,22 +56,9 @@ npm run start
 
 ## Required data
 
-1. Get TG Developer API KEY
 
-- Log in to your Telegram core: https://my.telegram.org.
 
-- Go to "API development tools" and fill out the form.
-
-You will get basic addresses as well as the api_id and api_hash parameters required for user authorization.
-
-- Put data into data/api.txt like this
-
-```txt
-apiId = 265***3
-apiHash = 7c***90
-```
-
-2. If your need proxy address, put address into data/proxy.txt like this
+1. If your need proxy address, put address into data/proxy.txt like this
 
 ```txt
 http://user:pass@ip:port
@@ -79,7 +66,7 @@ http://user:pass@ip:port
 http://user:pass@ip:port
 ```
 
-3. Add WebSite User Data
+2. Add WebSite User Data
 
 - go to https://www.easytoairdrop.com,sign in and login in
 
@@ -87,3 +74,8 @@ http://user:pass@ip:port
 
 - put the user.json to data/
 
+3. Add QueryId
+put the query_id.txt to data/[gamename]/
+
+### More Info
+look_at: [https://www.easytoairdrop.com](https://www.easytoairdrop.com/home/article-view?articleId=ART-925005709836&isPublished=true)
