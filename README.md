@@ -68,7 +68,7 @@ http://user:pass@ip:port
 
 2. Add WebSite User Data
 
-- go to https://www.easytoairdrop.com,sign in and login in
+- go to https://www.easytoairdrop.com, sign in and login in
 
 - hover the avator to export the user.json
 
