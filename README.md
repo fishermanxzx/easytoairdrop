@@ -7,23 +7,6 @@ website: https://www.easytoairdrop.com
 ## Env
 
 1. Node 16.18
-2. Python 3.12
-
-```shell
-pip install gyp-next
-```
-
-3.  
-
-Windows:
-
-- Visual Studio Installer: https://visualstudio.microsoft.com/
-
-Mac:
-
-- XCode -appstore
-
-
 
 ## Step
 
@@ -36,7 +19,6 @@ mkdir data
 2. touch file
 
 ```shell
-touch data/api.txt
 touch data/proxy.txt
 ```
 
@@ -52,11 +34,7 @@ npm i
 npm run start
 ```
 
-
-
 ## Required data
-
-
 
 1. If your need proxy address, put address into data/proxy.txt like this
 
