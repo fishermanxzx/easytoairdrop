@@ -1,59 +1,22 @@
-# EasyToAirdrop
+# EasyToAirdrop Guide
 
-**A website that helps you quickly obtain airdrops**
+Reference: [EasyToAirdrop Guide](https://www.easytoairdrop.com/home/article-view?articleId=ART-922823658642)
 
-website: https://www.easytoairdrop.com
+1. mac: download EasyToAirdrop.dmg
+2. window: download EasyToAirdrop.zip
 
-## Env
+## Task List
 
-1. Node 16.18
-
-## Step
-
-1. Make dir
-
-```shell
-mkdir data
-```
-
-2. touch file
-
-```shell
-touch data/proxy.txt
-```
-
-3. install dependencies
-
-```shell
-npm i
-```
-
-4. start 
-
-```shell
-npm run start
-```
-
-## Required data
-
-1. If your need proxy address, put address into data/proxy.txt like this
-
-```txt
-http://user:pass@ip:port
-http://user:pass@ip:port
-http://user:pass@ip:port
-```
-
-2. Add WebSite User Data
-
-- go to https://www.easytoairdrop.com, sign in and login in
-
-- hover the avator to export the user.json
-
-- put the user.json to data/
-
-3. Add QueryId
-put the query_id.txt to data/[gamename]/
-
-### More Info
-look_at: [https://www.easytoairdrop.com](https://www.easytoairdrop.com/home/article-view?articleId=ART-925005709836&isPublished=true)
+1. Blum
+2. Humanity
+3. Nebx
+4. Despeed
+5. Assisterr
+6. Uxuy
+7. Voltix
+8. Litas
+9. Monad
+10. OneFootball
+11. Somnia
+12. Keitokun
+13. MonadScore
